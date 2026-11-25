@@ -1,0 +1,7 @@
+# Keep everything LF in the repo; Cloudflare reads _headers/_redirects line by line.
+* text=auto eol=lf
+
+*.png binary
+*.jpg binary
+*.webp binary
+*.ico binary

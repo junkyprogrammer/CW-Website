@@ -1,0 +1,9 @@
+# Redirects for Cloudflare Pages.
+# Old or shared short links can be pointed at sections here.
+/home          /                 301
+/contact       /#enquiry         301
+/enquiry       /#enquiry         301
+/pricing       /#enquiry         301
+/plans         /#enquiry         301
+/spaces        /#spaces          301
+/location      /#location        301

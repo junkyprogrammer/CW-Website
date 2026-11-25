@@ -1,0 +1,14 @@
+# OS / sync junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Local scratch
+_preview.html
+*.log
+node_modules/
